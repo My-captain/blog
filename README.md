@@ -1,5 +1,7 @@
 
-### Attention中的outliers现象的原因
+## Quantization
+
+#### Attention中的outliers现象的原因
 > https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/whats-next-in-on-device-generative-ai.pdf
 > https://arxiv.org/pdf/2306.12929[Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing]
 
@@ -13,5 +15,8 @@
 - ClipSoftmax：让Softmax能够确定输出0值
 - GatedAttention：Gated_attention(x) = sigmoid(G(x)) ⊙ Attention(x)
 
-
+## Inference Acceleration
+### 投机解码
+#### TVD++
+https://arxiv.org/pdf/2403.00858v3
 
