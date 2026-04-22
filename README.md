@@ -1,5 +1,6 @@
 
 ### Attention中的outliers现象的原因
+> https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/whats-next-in-on-device-generative-ai.pdf
 > https://arxiv.org/pdf/2306.12929[Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing]
 
 高通的论文认为：
